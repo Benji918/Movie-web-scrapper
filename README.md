@@ -3,9 +3,9 @@ Its scrappers its  movie data from the IMDB website [](https://www.imdb.com/char
 containing 250 movies of all time
 
 ## Screenshots
-![](C:\Users\BENJAMIN\Documents\scrapper.jpg)
+![image description](C:\Users\BENJAMIN\Documents\scrapper.jpg)
 
-![](C:\Users\BENJAMIN\Documents\scrapper2.jpg)
+![image description](C:\Users\BENJAMIN\Documents\scrapper2.jpg)
 
 ## Installation
 `pip install -r requirements.txt`
